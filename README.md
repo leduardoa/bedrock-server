@@ -1,4 +1,4 @@
-# Minecraft Bedrock Server (Luis)
+# Minecraft Bedrock Server
 Run a bedrock server in a Docker container.
 
 ## Introduction
