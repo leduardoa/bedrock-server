@@ -1,9 +1,9 @@
 #DEPLOY TO HEROKU
 name: Deploy
-  on:
-    push:
-      branches:
-        - develop
+on:
+  push:
+    branches:
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
